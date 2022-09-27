@@ -1,5 +1,5 @@
 var word_length = 5;
-var wordbank = 'restricted';
+var wordbank = 'german';
 var pairings = [];
 var seconds = {};
 
@@ -51,7 +51,7 @@ function setLength() {
 function setWordbank() {
     let banks = document.getElementsByClassName('wordbank');
 
-    for (let i = 0; i < banks.length; i++) {
+    for (let i = 0; i < banks.length; i++) {        
         if (banks[i].checked == true) {
             wordbank = banks[i].id;
             break;
@@ -64,6 +64,10 @@ function setWordbank() {
 
     if (wordbank == 'restricted') {
         common = common_words.slice();
+    } else if (wordbank == 'german')  {
+        common = big_list_german.slice();
+        // also set word list
+        words = common;
     } else {
         common = all_common_words.slice();
     }
@@ -141,7 +145,9 @@ function uniqueWordsFrom(list) {
 function getPotentialGuessesAndAnswers(difficulty) {
     let answer_list = getAllPossibleAnswersFrom(common.slice());
     let unique_answers = uniqueWordsFrom(answer_list)
-    let all_possible_words = filterList(words.slice(), 0);
+
+
+    let all_possible_words = filterList(words.slice(), 0);    
     let unlikely_answers = all_possible_words.filter(a => !unique_answers.some(b => b == a));
 
     if (answer_list.length <= 2 && !bot.isFor(ANTI) || numberOfGuessesSoFar(0)) {

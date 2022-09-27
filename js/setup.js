@@ -32,7 +32,9 @@ $(document).ready(function() {
         }
 
         localStorage.setItem('wordbank', $(this).attr('id'));
-        $("#" + otherWordbank($(this).attr('id'))).prop('checked', false);
+        for(let s of otherWordbank($(this).attr('id')))
+            $("#" + s).prop('checked', false); 
+
         setWordbank();
         update();
     });
@@ -85,14 +87,23 @@ function getPreferences() {
     if (localStorage.getItem('wordbank')) {
         let bank = localStorage.getItem('wordbank');
         document.getElementById(bank).checked = true;
-        document.getElementById(otherWordbank(bank)).checked = false;
-        setWordbank()
+        for(let s of otherWordbank(bank))
+            document.getElementById(s).checked = false;
+
+        setWordbank();
     }
 }
 
 function otherWordbank(bank) {
-    if (bank == 'restricted') return 'complete';
-    return 'restricted';
+
+    const s = new Set();
+    s.add('restricted');
+    s.add('complete');
+    s.add('german');
+
+    s.delete(bank);
+
+    return s;
 }
 
 function drawPage() {
