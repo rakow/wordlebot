@@ -26,8 +26,8 @@ function getStartingWords(difficulty) {
 function testStartingWords() {
     console.log("testing");
     
-    difficulty = HARD;
-    // difficulty = NORMAL;
+    //difficulty = HARD;
+    difficulty = NORMAL;
     
     let check_list = getStartingWords(difficulty);
 

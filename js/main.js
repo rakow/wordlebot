@@ -65,9 +65,9 @@ function setWordbank() {
     if (wordbank == 'restricted') {
         common = common_words.slice();
     } else if (wordbank == 'german')  {
-        common = big_list_german.slice();
+        common = answers_german.slice();
         // also set word list
-        words = common;
+        words = big_list_german.filter((a) =>  a.length == word_length);;
     } else {
         common = all_common_words.slice();
     }
@@ -602,6 +602,10 @@ function getFirstGuesses(difficulty) {
         first_guesses = hard;
     }
 
+    if (wordbank == 'german') {
+         first_guesses = easy_german;
+    }
+
     first_guesses = getBestOf(first_guesses).filter(a => a.word.length == word_length);
 
     if (!first_guesses.length) {
@@ -646,7 +650,7 @@ function calculateGuessList(answers, guesses, best_words, difficulty) {
         }
 
         if (performance.now() - start_time > MAX_TIME || (can_finish && i >= CHECK_SIZE)) {
-            console.log("only calculated " + (i+1) + " words");
+            //console.log("only calculated " + (i+1) + " words");
             best_words = best_words.slice(0, i+1);
             break;
         }

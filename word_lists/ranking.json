@@ -1,0 +1,509 @@
+[
+    {
+      "word": "SAHNE",
+      "average": 3.286,
+      "wrong": 0
+    },
+    {
+      "word": "RASEN",
+      "average": 3.288,
+      "wrong": 0
+    },
+    {
+      "word": "GARNE",
+      "average": 3.302,
+      "wrong": 0
+    },
+    {
+      "word": "KARTE",
+      "average": 3.304,
+      "wrong": 0
+    },
+    {
+      "word": "HARLE",
+      "average": 3.304,
+      "wrong": 0
+    },
+    {
+      "word": "HARTE",
+      "average": 3.306,
+      "wrong": 0
+    },
+    {
+      "word": "TALER",
+      "average": 3.31,
+      "wrong": 0
+    },
+    {
+      "word": "KARLE",
+      "average": 3.312,
+      "wrong": 0
+    },
+    {
+      "word": "SALEN",
+      "average": 3.316,
+      "wrong": 0
+    },
+    {
+      "word": "LASTE",
+      "average": 3.318,
+      "wrong": 0
+    },
+    {
+      "word": "HALSE",
+      "average": 3.322,
+      "wrong": 0
+    },
+    {
+      "word": "MARTE",
+      "average": 3.324,
+      "wrong": 0
+    },
+    {
+      "word": "LAINE",
+      "average": 3.328,
+      "wrong": 0
+    },
+    {
+      "word": "SAURE",
+      "average": 3.33,
+      "wrong": 0
+    },
+    {
+      "word": "KRANE",
+      "average": 3.33,
+      "wrong": 0
+    },
+    {
+      "word": "RATES",
+      "average": 3.33,
+      "wrong": 0
+    },
+    {
+      "word": "TRAUE",
+      "average": 3.332,
+      "wrong": 0
+    },
+    {
+      "word": "LAIEN",
+      "average": 3.332,
+      "wrong": 0
+    },
+    {
+      "word": "AISNE",
+      "average": 3.332,
+      "wrong": 0
+    },
+    {
+      "word": "SARGE",
+      "average": 3.332,
+      "wrong": 0
+    },
+    {
+      "word": "LITRE",
+      "average": 3.332,
+      "wrong": 0
+    },
+    {
+      "word": "LARGE",
+      "average": 3.334,
+      "wrong": 0
+    },
+    {
+      "word": "RANKE",
+      "average": 3.334,
+      "wrong": 0
+    },
+    {
+      "word": "KAREL",
+      "average": 3.334,
+      "wrong": 0
+    },
+    {
+      "word": "SAGTE",
+      "average": 3.334,
+      "wrong": 0
+    },
+    {
+      "word": "LAUNE",
+      "average": 3.334,
+      "wrong": 0
+    },
+    {
+      "word": "RASTE",
+      "average": 3.338,
+      "wrong": 0
+    },
+    {
+      "word": "RAUEN",
+      "average": 3.338,
+      "wrong": 0
+    },
+    {
+      "word": "SAITE",
+      "average": 3.338,
+      "wrong": 0
+    },
+    {
+      "word": "RATEN",
+      "average": 3.34,
+      "wrong": 0
+    },
+    {
+      "word": "GANSE",
+      "average": 3.34,
+      "wrong": 0
+    },
+    {
+      "word": "SAGER",
+      "average": 3.34,
+      "wrong": 0
+    },
+    {
+      "word": "HAREN",
+      "average": 3.342,
+      "wrong": 0
+    },
+    {
+      "word": "TALES",
+      "average": 3.342,
+      "wrong": 0
+    },
+    {
+      "word": "LAUTE",
+      "average": 3.344,
+      "wrong": 0
+    },
+    {
+      "word": "MANET",
+      "average": 3.346,
+      "wrong": 0
+    },
+    {
+      "word": "STARE",
+      "average": 3.346,
+      "wrong": 0
+    },
+    {
+      "word": "LASER",
+      "average": 3.346,
+      "wrong": 0
+    },
+    {
+      "word": "RAUTE",
+      "average": 3.346,
+      "wrong": 0
+    },
+    {
+      "word": "LIANE",
+      "average": 3.348,
+      "wrong": 0
+    },
+    {
+      "word": "HALTE",
+      "average": 3.348,
+      "wrong": 0
+    },
+    {
+      "word": "LASEN",
+      "average": 3.348,
+      "wrong": 0
+    },
+    {
+      "word": "FARNE",
+      "average": 3.352,
+      "wrong": 0
+    },
+    {
+      "word": "SAUER",
+      "average": 3.352,
+      "wrong": 0
+    },
+    {
+      "word": "LATER",
+      "average": 3.354,
+      "wrong": 0
+    },
+    {
+      "word": "GASTE",
+      "average": 3.354,
+      "wrong": 0
+    },
+    {
+      "word": "KANTE",
+      "average": 3.354,
+      "wrong": 0
+    },
+    {
+      "word": "NORTE",
+      "average": 3.356,
+      "wrong": 0
+    },
+    {
+      "word": "KAREN",
+      "average": 3.356,
+      "wrong": 0
+    },
+    {
+      "word": "RAUHE",
+      "average": 3.356,
+      "wrong": 0
+    },
+    {
+      "word": "LAURE",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "LAUSE",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "SAHEN",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "SORTE",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "NARBE",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "ARIEN",
+      "average": 3.358,
+      "wrong": 0
+    },
+    {
+      "word": "BATEN",
+      "average": 3.36,
+      "wrong": 0
+    },
+    {
+      "word": "ARSEN",
+      "average": 3.36,
+      "wrong": 0
+    },
+    {
+      "word": "HAUTE",
+      "average": 3.362,
+      "wrong": 0
+    },
+    {
+      "word": "MAREN",
+      "average": 3.362,
+      "wrong": 0
+    },
+    {
+      "word": "ARTEN",
+      "average": 3.366,
+      "wrong": 0
+    },
+    {
+      "word": "NAHTE",
+      "average": 3.366,
+      "wrong": 0
+    },
+    {
+      "word": "GAREN",
+      "average": 3.37,
+      "wrong": 0
+    },
+    {
+      "word": "KAINE",
+      "average": 3.37,
+      "wrong": 0
+    },
+    {
+      "word": "STIER",
+      "average": 3.37,
+      "wrong": 0
+    },
+    {
+      "word": "ARTES",
+      "average": 3.372,
+      "wrong": 0
+    },
+    {
+      "word": "LAUER",
+      "average": 3.372,
+      "wrong": 0
+    },
+    {
+      "word": "LANGE",
+      "average": 3.372,
+      "wrong": 0
+    },
+    {
+      "word": "RAGEN",
+      "average": 3.374,
+      "wrong": 0
+    },
+    {
+      "word": "MARNE",
+      "average": 3.374,
+      "wrong": 0
+    },
+    {
+      "word": "HANSE",
+      "average": 3.374,
+      "wrong": 0
+    },
+    {
+      "word": "GRATE",
+      "average": 3.374,
+      "wrong": 0
+    },
+    {
+      "word": "SAULE",
+      "average": 3.376,
+      "wrong": 0
+    },
+    {
+      "word": "KARGE",
+      "average": 3.376,
+      "wrong": 0
+    },
+    {
+      "word": "RAGTE",
+      "average": 3.378,
+      "wrong": 0
+    },
+    {
+      "word": "KATER",
+      "average": 3.378,
+      "wrong": 0
+    },
+    {
+      "word": "MARIE",
+      "average": 3.38,
+      "wrong": 0
+    },
+    {
+      "word": "GANTE",
+      "average": 3.38,
+      "wrong": 0
+    },
+    {
+      "word": "KALTE",
+      "average": 3.384,
+      "wrong": 0
+    },
+    {
+      "word": "CARTE",
+      "average": 3.386,
+      "wrong": 0
+    },
+    {
+      "word": "SAGEN",
+      "average": 3.388,
+      "wrong": 0
+    },
+    {
+      "word": "BARTE",
+      "average": 3.388,
+      "wrong": 0
+    },
+    {
+      "word": "RITEN",
+      "average": 3.388,
+      "wrong": 0
+    },
+    {
+      "word": "RANGE",
+      "average": 3.392,
+      "wrong": 0
+    },
+    {
+      "word": "KASTE",
+      "average": 3.392,
+      "wrong": 0
+    },
+    {
+      "word": "KAUTE",
+      "average": 3.392,
+      "wrong": 0
+    },
+    {
+      "word": "BAUTE",
+      "average": 3.392,
+      "wrong": 0
+    },
+    {
+      "word": "FALTE",
+      "average": 3.394,
+      "wrong": 0
+    },
+    {
+      "word": "HASTE",
+      "average": 3.4,
+      "wrong": 0
+    },
+    {
+      "word": "KATIE",
+      "average": 3.402,
+      "wrong": 0
+    },
+    {
+      "word": "RANDE",
+      "average": 3.406,
+      "wrong": 0
+    },
+    {
+      "word": "MAIRE",
+      "average": 3.408,
+      "wrong": 0
+    },
+    {
+      "word": "DANTE",
+      "average": 3.408,
+      "wrong": 0
+    },
+    {
+      "word": "SAFTE",
+      "average": 3.41,
+      "wrong": 0
+    },
+    {
+      "word": "SANDE",
+      "average": 3.414,
+      "wrong": 0
+    },
+    {
+      "word": "BAREN",
+      "average": 3.416,
+      "wrong": 0
+    },
+    {
+      "word": "WARTE",
+      "average": 3.42,
+      "wrong": 0
+    },
+    {
+      "word": "MALTE",
+      "average": 3.424,
+      "wrong": 0
+    },
+    {
+      "word": "WARNE",
+      "average": 3.446,
+      "wrong": 0
+    },
+    {
+      "word": "STERN",
+      "average": 3.454,
+      "wrong": 0
+    },
+    {
+      "word": "ZARTE",
+      "average": 3.478,
+      "wrong": 0
+    }
+  ]
+
+  

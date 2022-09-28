@@ -18428,3 +18428,715 @@ const hard =
         }
     ]
 }
+
+const easy_german = {
+    "Wordle": [
+        {
+            "word": "SAHNE",
+            "german": {
+                "average": 3.286,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RASEN",
+            "german": {
+                "average": 3.288,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GARNE",
+            "german": {
+                "average": 3.302,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KARTE",
+            "german": {
+                "average": 3.304,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HARLE",
+            "german": {
+                "average": 3.304,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HARTE",
+            "german": {
+                "average": 3.306,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "TALER",
+            "german": {
+                "average": 3.31,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KARLE",
+            "german": {
+                "average": 3.312,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SALEN",
+            "german": {
+                "average": 3.316,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LASTE",
+            "german": {
+                "average": 3.318,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HALSE",
+            "german": {
+                "average": 3.322,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MARTE",
+            "german": {
+                "average": 3.324,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAINE",
+            "german": {
+                "average": 3.328,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAURE",
+            "german": {
+                "average": 3.33,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KRANE",
+            "german": {
+                "average": 3.33,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RATES",
+            "german": {
+                "average": 3.33,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "TRAUE",
+            "german": {
+                "average": 3.332,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAIEN",
+            "german": {
+                "average": 3.332,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "AISNE",
+            "german": {
+                "average": 3.332,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SARGE",
+            "german": {
+                "average": 3.332,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LITRE",
+            "german": {
+                "average": 3.332,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LARGE",
+            "german": {
+                "average": 3.334,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RANKE",
+            "german": {
+                "average": 3.334,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KAREL",
+            "german": {
+                "average": 3.334,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAGTE",
+            "german": {
+                "average": 3.334,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAUNE",
+            "german": {
+                "average": 3.334,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RASTE",
+            "german": {
+                "average": 3.338,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RAUEN",
+            "german": {
+                "average": 3.338,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAITE",
+            "german": {
+                "average": 3.338,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RATEN",
+            "german": {
+                "average": 3.34,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GANSE",
+            "german": {
+                "average": 3.34,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAGER",
+            "german": {
+                "average": 3.34,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HAREN",
+            "german": {
+                "average": 3.342,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "TALES",
+            "german": {
+                "average": 3.342,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAUTE",
+            "german": {
+                "average": 3.344,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MANET",
+            "german": {
+                "average": 3.346,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "STARE",
+            "german": {
+                "average": 3.346,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LASER",
+            "german": {
+                "average": 3.346,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RAUTE",
+            "german": {
+                "average": 3.346,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LIANE",
+            "german": {
+                "average": 3.348,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HALTE",
+            "german": {
+                "average": 3.348,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LASEN",
+            "german": {
+                "average": 3.348,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "FARNE",
+            "german": {
+                "average": 3.352,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAUER",
+            "german": {
+                "average": 3.352,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LATER",
+            "german": {
+                "average": 3.354,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GASTE",
+            "german": {
+                "average": 3.354,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KANTE",
+            "german": {
+                "average": 3.354,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "NORTE",
+            "german": {
+                "average": 3.356,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KAREN",
+            "german": {
+                "average": 3.356,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RAUHE",
+            "german": {
+                "average": 3.356,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAURE",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAUSE",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAHEN",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SORTE",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "NARBE",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "ARIEN",
+            "german": {
+                "average": 3.358,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "BATEN",
+            "german": {
+                "average": 3.36,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "ARSEN",
+            "german": {
+                "average": 3.36,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HAUTE",
+            "german": {
+                "average": 3.362,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MAREN",
+            "german": {
+                "average": 3.362,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "ARTEN",
+            "german": {
+                "average": 3.366,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "NAHTE",
+            "german": {
+                "average": 3.366,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GAREN",
+            "german": {
+                "average": 3.37,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KAINE",
+            "german": {
+                "average": 3.37,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "STIER",
+            "german": {
+                "average": 3.37,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "ARTES",
+            "german": {
+                "average": 3.372,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LAUER",
+            "german": {
+                "average": 3.372,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "LANGE",
+            "german": {
+                "average": 3.372,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RAGEN",
+            "german": {
+                "average": 3.374,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MARNE",
+            "german": {
+                "average": 3.374,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HANSE",
+            "german": {
+                "average": 3.374,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GRATE",
+            "german": {
+                "average": 3.374,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAULE",
+            "german": {
+                "average": 3.376,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KARGE",
+            "german": {
+                "average": 3.376,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RAGTE",
+            "german": {
+                "average": 3.378,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KATER",
+            "german": {
+                "average": 3.378,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MARIE",
+            "german": {
+                "average": 3.38,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "GANTE",
+            "german": {
+                "average": 3.38,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KALTE",
+            "german": {
+                "average": 3.384,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "CARTE",
+            "german": {
+                "average": 3.386,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAGEN",
+            "german": {
+                "average": 3.388,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "BARTE",
+            "german": {
+                "average": 3.388,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RITEN",
+            "german": {
+                "average": 3.388,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RANGE",
+            "german": {
+                "average": 3.392,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KASTE",
+            "german": {
+                "average": 3.392,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KAUTE",
+            "german": {
+                "average": 3.392,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "BAUTE",
+            "german": {
+                "average": 3.392,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "FALTE",
+            "german": {
+                "average": 3.394,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "HASTE",
+            "german": {
+                "average": 3.4,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "KATIE",
+            "german": {
+                "average": 3.402,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "RANDE",
+            "german": {
+                "average": 3.406,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MAIRE",
+            "german": {
+                "average": 3.408,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "DANTE",
+            "german": {
+                "average": 3.408,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SAFTE",
+            "german": {
+                "average": 3.41,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "SANDE",
+            "german": {
+                "average": 3.414,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "BAREN",
+            "german": {
+                "average": 3.416,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "WARTE",
+            "german": {
+                "average": 3.42,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "MALTE",
+            "german": {
+                "average": 3.424,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "WARNE",
+            "german": {
+                "average": 3.446,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "STERN",
+            "german": {
+                "average": 3.454,
+                "wrong": 0
+            }
+        },
+        {
+            "word": "ZARTE",
+            "german": {
+                "average": 3.478,
+                "wrong": 0
+            }
+        }
+    ]
+}
